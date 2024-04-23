@@ -1,0 +1,6 @@
+Invoking command in '/home/pradeep/ros43_ws/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pradeep/ros43_ws/src/simple_pkg -DCMAKE_INSTALL_PREFIX=/home/pradeep/ros43_ws/install/simple_pkg
+Invoked command in '/home/pradeep/ros43_ws/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pradeep/ros43_ws/src/simple_pkg -DCMAKE_INSTALL_PREFIX=/home/pradeep/ros43_ws/install/simple_pkg
+Invoking command in '/home/pradeep/ros43_ws/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pradeep/ros43_ws/build/simple_pkg -- -j12 -l12
+Invoked command in '/home/pradeep/ros43_ws/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pradeep/ros43_ws/build/simple_pkg -- -j12 -l12
+Invoking command in '/home/pradeep/ros43_ws/build/simple_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pradeep/ros43_ws/build/simple_pkg
+Invoked command in '/home/pradeep/ros43_ws/build/simple_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pradeep/ros43_ws/build/simple_pkg
