@@ -12,7 +12,7 @@ class MyPublisher(Node):
 
     def timer_callback(self):
         msg = String()  # Create a new String message
-        msg.data = 'Hello, ROS2'  # Assign data to the message
+        msg.data = 'Hello, Pradeep here'  # Assign data to the message
         self.publisher_.publish(msg)  # Publish the message
         self.get_logger().info('Publishing: "%s"' % msg.data)  # Log an info message
 
